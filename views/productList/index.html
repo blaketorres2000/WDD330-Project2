@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List for MrT's OTC's</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script type="module" src="/js/general.js"></script>
+  </head>
+
+  <body>
+    <header class="divider" id="main-header"></header>
+
+    <nav class="navbar">
+      <a href="/">Home</a>
+      <div class="dropdown">
+        <button class="dropbtn">Categories</button>
+        <div class="dropdown-content">
+          <a href="/views/productList/index.html?category=allergy">Allergy</a>
+          <a href="/views/productList/index.html?category=eye%20and%20ear"
+            >Eye and Ear</a
+          >
+          <a href="/views/productList/index.html?category=first%20aid"
+            >First Aid</a
+          >
+          <a href="/views/productList/index.html?category=pain">Pain</a>
+          <a href="/views/productList/index.html?category=vitamins">Vitamins</a>
+        </div>
+      </div>
+    </nav>
+
+    <main id="product-list-page">
+      <h1 id="page-heading">Product List</h1>
+
+      <div id="product-list"></div>
+    </main>
+
+    <footer id="main-footer"></footer>
+    <script type="module" src="/js/product-list.js"></script>
+  </body>
+</html>

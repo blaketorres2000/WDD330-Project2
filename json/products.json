@@ -1,0 +1,836 @@
+{
+  "pain": [
+    {
+      "id": 1000001,
+      "name": "Ibuprofen",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "100 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000002,
+      "name": "Acetaminophen",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "100 tablets",
+      "price": 8.99
+    },
+    {
+      "id": 1000003,
+      "name": "PainAway Plus",
+      "category": "pain",
+      "description": "Fast-acting pain relief medication",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000004,
+      "name": "PainAway",
+      "category": "pain",
+      "description": "Fast-acting pain relief medication",
+      "quantity": "50 tablets",
+      "price": 8.99
+    },
+    {
+      "id": 1000005,
+      "name": "PainAway Extra",
+      "category": "pain",
+      "description": "Fast-acting pain relief medication",
+      "quantity": "50 tablets",
+      "price": 10.99
+    },
+    {
+      "id": 1000006,
+      "name": "PainAway Ultra",
+      "category": "pain",
+      "description": "Fast-acting pain relief medication",
+      "quantity": "50 tablets",
+      "price": 11.99
+    },
+    {
+      "id": 1000007,
+      "name": "PainAway Max",
+      "category": "pain",
+      "description": "Fast-acting pain relief medication",
+      "quantity": "50 tablets",
+      "price": 12.99
+    },
+    {
+      "id": 1000008,
+      "name": "PainAway Super",
+      "category": "pain",
+      "description": "Fast-acting pain relief medication",
+      "quantity": "50 tablets",
+      "price": 13.99
+    },
+    {
+      "id": 1000009,
+      "name": "PainAway Extreme",
+      "category": "pain",
+      "description": "Fast-acting pain relief medication",
+      "quantity": "50 tablets",
+      "price": 14.99
+    },
+    {
+      "id": 1000010,
+      "name": "PainAway UltraMax",
+      "category": "pain",
+      "description": "Fast-acting pain relief medication",
+      "quantity": "50 tablets",
+      "price": 15.99
+    },
+    {
+      "id": 1000011,
+      "name": "Aleve",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000012,
+      "name": "Advil",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000013,
+      "name": "Tylenol",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000014,
+      "name": "Motrin",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000015,
+      "name": "Excedrin",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000016,
+      "name": "Bayer",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000017,
+      "name": "Aspirin",
+      "category": "pain",
+      "description": "Relieves minor aches and pains",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 1000018,
+      "name": "Migraine Relief",
+      "category": "pain",
+      "description": "Relieves migraine headaches",
+      "quantity": "30 tablets",
+      "price": 12.99
+    },
+    {
+      "id": 1000019,
+      "name": "Backache Be Gone",
+      "category": "pain",
+      "description": "Relieves back pain",
+      "quantity": "30 tablets",
+      "price": 11.99
+    },
+    {
+      "id": 1000020,
+      "name": "Joint pain Relief",
+      "category": "pain",
+      "description": "Relieves joint pain",
+      "quantity": "30 tablets",
+      "price": 10.99
+    }
+  ],
+  "allergy": [
+    {
+      "id": 2000001,
+      "name": "Loratadine",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "30 tablets",
+      "price": 12.99
+    },
+    {
+      "id": 2000002,
+      "name": "Diphenhydramine",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "24 capsules",
+      "price": 7.99
+    },
+    {
+      "id": 2000003,
+      "name": "AllergyAway Plus",
+      "category": "allergy",
+      "description": "Fast-acting allergy relief medication",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000004,
+      "name": "AllergyAway",
+      "category": "allergy",
+      "description": "Fast-acting allergy relief medication",
+      "quantity": "50 tablets",
+      "price": 8.99
+    },
+    {
+      "id": 2000005,
+      "name": "AllergyAway Extra",
+      "category": "allergy",
+      "description": "Fast-acting allergy relief medication",
+      "quantity": "50 tablets",
+      "price": 10.99
+    },
+    {
+      "id": 2000006,
+      "name": "AllergyAway Ultra",
+      "category": "allergy",
+      "description": "Fast-acting allergy relief medication",
+      "quantity": "50 tablets",
+      "price": 11.99
+    },
+    {
+      "id": 2000007,
+      "name": "AllergyAway Max",
+      "category": "allergy",
+      "description": "Fast-acting allergy relief medication",
+      "quantity": "50 tablets",
+      "price": 12.99
+    },
+    {
+      "id": 2000008,
+      "name": "AllergyAway Super",
+      "category": "allergy",
+      "description": "Fast-acting allergy relief medication",
+      "quantity": "50 tablets",
+      "price": 13.99
+    },
+    {
+      "id": 2000009,
+      "name": "AllergyAway Extreme",
+      "category": "allergy",
+      "description": "Fast-acting allergy relief medication",
+      "quantity": "50 tablets",
+      "price": 14.99
+    },
+    {
+      "id": 2000010,
+      "name": "AllergyAway UltraMax",
+      "category": "allergy",
+      "description": "Fast-acting allergy relief medication",
+      "quantity": "50 tablets",
+      "price": 15.99
+    },
+    {
+      "id": 2000011,
+      "name": "Claritin",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000012,
+      "name": "Benadryl",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000013,
+      "name": "Zyrtec",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000014,
+      "name": "Allegra",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000015,
+      "name": "Flonase",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000016,
+      "name": "Nasacort",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000017,
+      "name": "Xyzal",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000018,
+      "name": "Sudafed",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000019,
+      "name": "Mucinex",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 2000020,
+      "name": "Fluticasone",
+      "category": "allergy",
+      "description": "Relieves allergy symptoms",
+      "quantity": "50 tablets",
+      "price": 9.99
+    }
+  ],
+  "eye and ear": [
+    {
+      "id": 3000001,
+      "name": "Artificial Tears",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "15 mL",
+      "price": 5.99
+    },
+    {
+      "id": 3000002,
+      "name": "Ear Wax Removal Drops",
+      "category": "eye and ear",
+      "description": "Removes ear wax",
+      "quantity": "10 mL",
+      "price": 8.99
+    },
+    {
+      "id": 3000003,
+      "name": "EyeEarAway Plus",
+      "category": "eye and ear",
+      "description": "Fast-acting eye and ear relief medication",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 3000004,
+      "name": "EyeEarAway",
+      "category": "eye and ear",
+      "description": "Fast-acting eye and ear relief medication",
+      "quantity": "50 tablets",
+      "price": 8.99
+    },
+    {
+      "id": 3000005,
+      "name": "EyeEarAway Extra",
+      "category": "eye and ear",
+      "description": "Fast-acting eye and ear relief medication",
+      "quantity": "50 tablets",
+      "price": 10.99
+    },
+    {
+      "id": 3000006,
+      "name": "EyeEarAway Ultra",
+      "category": "eye and ear",
+      "description": "Fast-acting eye and ear relief medication",
+      "quantity": "50 tablets",
+      "price": 11.99
+    },
+    {
+      "id": 3000007,
+      "name": "EyeEarAway Max",
+      "category": "eye and ear",
+      "description": "Fast-acting eye and ear relief medication",
+      "quantity": "50 tablets",
+      "price": 12.99
+    },
+    {
+      "id": 3000008,
+      "name": "EyeEarAway Super",
+      "category": "eye and ear",
+      "description": "Fast-acting eye and ear relief medication",
+      "quantity": "50 tablets",
+      "price": 13.99
+    },
+    {
+      "id": 3000009,
+      "name": "EyeEarAway Extreme",
+      "category": "eye and ear",
+      "description": "Fast-acting eye and ear relief medication",
+      "quantity": "50 tablets",
+      "price": 14.99
+    },
+    {
+      "id": 3000010,
+      "name": "EyeEarAway UltraMax",
+      "category": "eye and ear",
+      "description": "Fast-acting eye and ear relief medication",
+      "quantity": "5 ml",
+      "price": 15.99
+    },
+    {
+      "id": 3000011,
+      "name": "Visine",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000012,
+      "name": "Clear Eyes",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000013,
+      "name": "Bausch and Lomb",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000014,
+      "name": "Systane",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000015,
+      "name": "Similasan",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000016,
+      "name": "Murine",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000017,
+      "name": "Blink",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000018,
+      "name": "Refresh",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000019,
+      "name": "Thera Tears",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000020,
+      "name": "Zaditor",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "5 ml",
+      "price": 9.99
+    },
+    {
+      "id": 3000021,
+      "name": "Ear Wax Removal Drops",
+      "category": "eye and ear",
+      "description": "Removes ear wax",
+      "quantity": "10 mL",
+      "price": 8.99
+    },
+    {
+      "id": 3000022,
+      "name": "Artificial Tears",
+      "category": "eye and ear",
+      "description": "Relieves dry eyes",
+      "quantity": "15 mL",
+      "price": 5.99
+    }
+  ],
+  "first aid": [
+    {
+      "id": 4000001,
+      "name": "Adhesive Bandages",
+      "category": "first aid",
+      "description": "Covers and protects minor cuts and scrapes",
+      "quantity": "30 count",
+      "price": 3.99
+    },
+    {
+      "id": 4000002,
+      "name": "Gauze Pads",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000003,
+      "name": "Fabric Bandaids",
+      "category": "first aid",
+      "description": "Covers and protects minor cuts and scrapes",
+      "quantity": "30 count",
+      "price": 3.99
+    },
+    {
+      "id": 4000004,
+      "name": "Plastic Bandaids",
+      "category": "first aid",
+      "description": "Covers and protects minor cuts and scrapes",
+      "quantity": "30 count",
+      "price": 3.99
+    },
+    {
+      "id": 4000005,
+      "name": "Waterproof Bandaids",
+      "category": "first aid",
+      "description": "Covers and protects minor cuts and scrapes",
+      "quantity": "30 count",
+      "price": 3.99
+    },
+    {
+      "id": 4000006,
+      "name": "Gauze Pads",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000007,
+      "name": "Gauze Rolls",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000008,
+      "name": "Gauze Tape",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000009,
+      "name": "Medical Tape",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000010,
+      "name": "Medical Wrap",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000011,
+      "name": "Medical Gloves",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000012,
+      "name": "Medical Scissors",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000013,
+      "name": "Medical Tweezers",
+      "category": "first aid",
+      "description": "Covers and protects wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000014,
+      "name": "Medical Alcohol Wipes",
+      "category": "first aid",
+      "description": "Cleans wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000015,
+      "name": "Medical Antibiotic Ointment",
+      "category": "first aid",
+      "description": "Cleans wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000016,
+      "name": "Medical Antiseptic Wipes",
+      "category": "first aid",
+      "description": "Cleans wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000017,
+      "name": "Medical Burn Cream",
+      "category": "first aid",
+      "description": "Cleans wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000018,
+      "name": "Medical Burn Gel",
+      "category": "first aid",
+      "description": "Cleans wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000019,
+      "name": "Medical Burn Spray",
+      "category": "first aid",
+      "description": "Cleans wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000020,
+      "name": "Medical Cold Compress",
+      "category": "first aid",
+      "description": "Cools wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    },
+    {
+      "id": 4000021,
+      "name": "Medical Eye Wash",
+      "category": "first aid",
+      "description": "Cleans wounds",
+      "quantity": "10 count",
+      "price": 6.99
+    }
+  ],
+  "vitamins": [
+    {
+      "id": 5000001,
+      "name": "Multivitamin",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "60 tablets",
+      "price": 14.99
+    },
+    {
+      "id": 5000002,
+      "name": "Vitamin C",
+      "category": "vitamins",
+      "description": "Boosts immune system",
+      "quantity": "100 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000003,
+      "name": "VitaminAway Plus",
+      "category": "vitamins",
+      "description": "Fast-acting vitamin supplement",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000004,
+      "name": "VitaminAway",
+      "category": "vitamins",
+      "description": "Fast-acting vitamin supplement",
+      "quantity": "50 tablets",
+      "price": 8.99
+    },
+    {
+      "id": 5000005,
+      "name": "VitaminAway Extra",
+      "category": "vitamins",
+      "description": "Fast-acting vitamin supplement",
+      "quantity": "50 tablets",
+      "price": 10.99
+    },
+    {
+      "id": 5000006,
+      "name": "VitaminAway Ultra",
+      "category": "vitamins",
+      "description": "Fast-acting vitamin supplement",
+      "quantity": "50 tablets",
+      "price": 11.99
+    },
+    {
+      "id": 5000007,
+      "name": "VitaminAway Max",
+      "category": "vitamins",
+      "description": "Fast-acting vitamin supplement",
+      "quantity": "50 tablets",
+      "price": 12.99
+    },
+    {
+      "id": 5000008,
+      "name": "VitaminAway Super",
+      "category": "vitamins",
+      "description": "Fast-acting vitamin supplement",
+      "quantity": "50 tablets",
+      "price": 13.99
+    },
+    {
+      "id": 5000009,
+      "name": "VitaminAway Extreme",
+      "category": "vitamins",
+      "description": "Fast-acting vitamin supplement",
+      "quantity": "50 tablets",
+      "price": 14.99
+    },
+    {
+      "id": 5000010,
+      "name": "Centrum",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000011,
+      "name": "One A Day",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000012,
+      "name": "Nature Made",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000013,
+      "name": "Nature's Bounty",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000014,
+      "name": "Kirkland Signature",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000015,
+      "name": "Garden of Life",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000016,
+      "name": "Rainbow Light",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000017,
+      "name": "Vitafusion",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000018,
+      "name": "SmartyPants",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000019,
+      "name": "Nature's Way",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    },
+    {
+      "id": 5000020,
+      "name": "Nature's Plus",
+      "category": "vitamins",
+      "description": "Provides essential vitamins and minerals",
+      "quantity": "50 tablets",
+      "price": 9.99
+    }
+  ]
+}

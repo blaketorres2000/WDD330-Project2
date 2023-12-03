@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart for MrT's OTC's</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script type="module" src="/js/general.js"></script>
+  </head>
+
+  <body>
+    <header class="divider" id="main-header"></header>
+
+    <main class="cartPage">
+      <h1>Shopping Cart</h1>
+      <button id="toggle-view-button">Toggle Card or List View</button>
+      <div id="cart-items" class="cartItemsContainer card-view"></div>
+
+      <div class="cartSummary">
+        <div id="cart-summary"></div>
+        <button id="checkout-button">Checkout</button>
+        <p class="cart-note">
+          ** Tax and Shipping will be calculated at checkout **
+        </p>
+      </div>
+    </main>
+
+    <footer id="main-footer"></footer>
+    <script type="module" src="/js/cart.js"></script>
+    <script type="module" src="/js/cart-actions.js"></script>
+  </body>
+</html>
